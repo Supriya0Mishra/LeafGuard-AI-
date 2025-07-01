@@ -1,0 +1,24 @@
+# Ignore large/binary/data/model files
+*.h5
+*.pt
+*.pth
+*.zip
+*.png
+*.jpg
+*.jpeg
+
+# VS Code and system junk
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Not needed folders
+env/
+venv/
+.idea/
+i n s t a n c e / s i t e . d b 
+instance/
+ 
+ 
